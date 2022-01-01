@@ -10,7 +10,6 @@ class SlidingCardsView extends StatefulWidget {
 class _SlidingCardsViewState extends State<SlidingCardsView> {
   PageController pageController;
   double pageOffset = 0;
-  String test = 'test';
 
   @override
   void initState() {
